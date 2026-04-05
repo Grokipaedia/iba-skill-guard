@@ -6,7 +6,10 @@ While companies force workers to create **colleague.skill** files so they can re
 
 Wrap any skill file with a signed **IBA Intent Certificate** so the resulting AI clone can only be used under **your exact rules**.
 
-You can also safely hollow the file — it looks complete and professional to the company, but critical knowledge is protected.
+You can also safely hollow the file — it looks complete to the company, but critical knowledge is protected.
+
+## Live Demo
+Try it here: [https://governinglayer.com/skillguard-html/](https://governinglayer.com/skillguard-html/)
 
 ## Features
 - Signs skill files with a proper IBA Intent Certificate
